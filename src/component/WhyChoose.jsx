@@ -36,7 +36,7 @@ export default function WhyChoose () {
     </section>
      <section className='secondSection'>
       <div>
-      <img className="detailsImg2" src= "./src/images/phoneImg2.jpg" />
+      <img className="detailsImg2" src= "images/phoneImg2.jpg" />
       </div>
       <div>
       <p className='paragraph3'>Trade Foreign Currency Directly with Buyers and Sellers -No Banks, No Service Charges, No Third-Party Agents.</p>
