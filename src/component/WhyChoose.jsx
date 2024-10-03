@@ -12,6 +12,7 @@ export default function WhyChoose () {
     </span>
     <section className='containerWrapper'>
     <div className=' firstContainer'>
+    
     <FontAwesomeIcon icon="fa-solid fa-money-bill-trend-up" size="xl"  style={{color: "#21008F",}} />
 <p>
    
@@ -36,7 +37,7 @@ export default function WhyChoose () {
     </section>
      <section className='secondSection'>
       <div>
-      <img className="detailsImg2" src= "images/phoneImg2.jpg" />
+      <img className="detailsImg2" src= "/dist/images/phoneImg2.jpg" />
       </div>
       <div>
       <p className='paragraph3'>Trade Foreign Currency Directly with Buyers and Sellers -No Banks, No Service Charges, No Third-Party Agents.</p>

@@ -12,7 +12,7 @@ export default function Details() {
           <button disabled className ="detailsBtn"> Take control of your money</button>
          </div>
           <span className="imgWrap">
-           <img className="details-img" src= "images/phoneImg2.jpg" />
+           <img className="details-img" src= "/dist/images/phoneImg2.jpg" />
        </span>
        <svg width="1300" height="300" viewBox="0 0 1300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path opacity="0.5" d="M-0.113281 326.24C-0.113281 326.24 76.4706 235.779 125.813 235.779C175.156 235.779 155.624 264.562 256.366 264.562C357.107 264.562 402.852 203.398 492.799 203.398C582.747 203.398 697.366 321.1 793.995 287.691C890.624 254.282 884.456 215.219 978.002 215.219C1071.55 215.219 1100.84 263.534 1179.48 236.807C1258.12 210.079 1300.27 102.656 1372.23 93.9186C1444.19 85.1808 1454.98 123.73 1572.17 123.73" stroke="#608C9B" stroke-width="4.61945" stroke-linecap="round" stroke-dasharray="13.36 21.59"/>

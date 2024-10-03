@@ -20,7 +20,7 @@ export default function HowItWorks() {
  <li>Pick a means of transaction. Physical
  exchange or bank transfer</li>
 </ol>
-<img className="works-img" src="images/work.jpg" alt="image"  />
+<img className="works-img" src="/dist/images/work.jpg" alt="image"  />
   </div>
 </div>
   )

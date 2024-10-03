@@ -5,7 +5,7 @@ export default function Product() {
     <div className ="productContainer">
       
      <span className="spanImg">
-      <img className="homeImg" src="images/homeImg.jpeg"/>
+      <img className="homeImg" src="/dist/images/homeImg.jpeg"/>
       </span>
       <div className="productContent">
        <h1> Our Product</h1>
