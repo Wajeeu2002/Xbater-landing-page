@@ -17,6 +17,7 @@
     flex-wrap: wrap;
     margin-top: 1em;
     margin-right:1.6em ;
+    cursor: pointer;
 }
 .navBtn{
     background: #fff;
@@ -179,10 +180,12 @@ ol{
 
 .spanImg{
   margin-right:2em ;
+ 
+ 
 }
 
 .homeImg{
-   
+    background-color: #21008F;
     width:87%;
     height: auto;
    margin-top:0.4em ;

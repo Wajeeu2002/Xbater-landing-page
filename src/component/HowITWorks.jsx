@@ -1,4 +1,4 @@
-
+import image2 from "/src/images/image2.jpg"
 
 export default function HowItWorks() {
   return (
@@ -20,7 +20,7 @@ export default function HowItWorks() {
  <li>Pick a means of transaction. Physical
  exchange or bank transfer</li>
 </ol>
-<img className="works-img" src="/dist/images/work.jpg" alt="image"  />
+<img className="works-img" src={image2} alt="image"  />
   </div>
 </div>
   )

@@ -1,11 +1,11 @@
-
+import image3 from "/src/images/image3.png"
 
 export default function Product() {
   return (
     <div className ="productContainer">
       
      <span className="spanImg">
-      <img className="homeImg" src="/dist/images/homeImg.jpeg"/>
+      <img className="homeImg" src={image3}/>
       </span>
       <div className="productContent">
        <h1> Our Product</h1>

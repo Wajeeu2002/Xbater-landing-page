@@ -1,4 +1,4 @@
-import React from 'react'
+import image4 from "/src/images/image4.png"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 export default function WhyChoose () {
@@ -37,7 +37,7 @@ export default function WhyChoose () {
     </section>
      <section className='secondSection'>
       <div>
-      <img className="detailsImg2" src= "/dist/images/phoneImg2.jpg" />
+      <img className="detailsImg2" src= {image4} />
       </div>
       <div>
       <p className='paragraph3'>Trade Foreign Currency Directly with Buyers and Sellers -No Banks, No Service Charges, No Third-Party Agents.</p>
